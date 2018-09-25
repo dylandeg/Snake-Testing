@@ -24,7 +24,9 @@ namespace Snake_Testing
     {
         public MainPage()
         {
+            
             this.InitializeComponent();
+            zero0.Fill = new SolidColorBrush(Windows.UI.Color.FromArgb(255, 255, 0, 0));
         }
     }
 }
