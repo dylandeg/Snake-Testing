@@ -39,7 +39,6 @@
                     <ColumnDefinition />
                     <ColumnDefinition />
                 </Grid.ColumnDefinitions>
-                <Rectangle x:Name="zero0" Grid.Row="0" Grid.Column="0" />
             </Grid>
         </RelativePanel>
 
